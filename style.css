@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.header .header__more-inf {
+.header__more-inf {
   font-family: fantasy, cursive;
 }
 
@@ -148,7 +148,7 @@ li > input[type="text"] {
 }
 
 /* Completed */
-#completed label {
+.completed label {
   text-decoration: line-through;
   color: #888;
 }
