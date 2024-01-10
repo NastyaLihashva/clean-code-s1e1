@@ -47,11 +47,13 @@
   padding: 0px;
 }
 
-.main__list-item, .title {
+.main__list-item, 
+.title {
   list-style: none;
 }
 
-.main__input-checkbox, .button{
+.main__input-checkbox, 
+.button{
   outline: none;
 }
 
